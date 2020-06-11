@@ -1,0 +1,14 @@
+{
+  "name": "labview-dashboard",
+  "version": "1.0.0",
+  "description": "Basic web page to interact with NI LabVIEW Web Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Page",
+  "license": "ISC",
+  "dependencies": {
+    "nodejs": "0.0.0"
+  }
+}
