@@ -9,6 +9,7 @@
   "author": "Nathan Page",
   "license": "ISC",
   "dependencies": {
-    "nodejs": "0.0.0"
+    "nodejs": "0.0.0",
+    "nodemon": "^2.0.4"
   }
 }
