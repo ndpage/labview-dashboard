@@ -16,7 +16,7 @@
 
 html, body {   
 
-  background-image:  var(--background-image, whitesmoke);
+  background-image:  var(--background-imag, whitesmoke);
   background-size: cover;
 }
 
